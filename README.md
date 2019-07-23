@@ -7,8 +7,9 @@
 ## 使用方式
 - 将`data_dir`指定数据目录即可。
 
-## 交流QQ群
-- 群号：826192597
+## 交流方式
+![微信：wangmouren7400](img/wechatid.jpg)
+
 
 ## 参考资料
 - [kaggle talkingdata比赛](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
